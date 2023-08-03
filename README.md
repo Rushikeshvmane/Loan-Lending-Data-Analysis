@@ -97,7 +97,8 @@ If one is able to identify these risky loan applicants, then such loans can be 
 
     v)  91 % of the defaulters already have a mortgage taken out or live on rent, this can be an driving factor that FC should look into. 
 
-     vi)  91 % of the defaulters already have a mortgage taken out or live on rent, this can be an driving factor that FC should look into. 
+     vi)  Among the defaulters, maximum number (38%) of the loan applicants are 'Not Verified'. Hence, Forex Club (LC) should make the norms 
+          stringent on 'Verification' aspect of the candidate's reported annual income.. 
 
 
     
