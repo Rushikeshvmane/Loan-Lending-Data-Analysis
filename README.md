@@ -49,19 +49,39 @@ If one is able to identify these risky loan applicants, then such loans can be 
 <img src="https://github.com/Rushikeshvmane/Loan-Lending-Data-Analysis/assets/141236953/8e39cf9b-b563-4079-8ace-4ae888070867" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-3. How each state is performing, show this using a feature such that within a few clicks the operator shall get the details regarding that particular state: <br/>
-<img src="https://github.com/Rushikeshvmane/Sales-Analysis-Drillthrough-Project-/assets/141236953/76b48988-ef26-4251-ab5c-8b2225afa887" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+3. Loan Term by Loan Status Analysis: <br/>
+<img src="https://github.com/Rushikeshvmane/Loan-Lending-Data-Analysis/assets/141236953/38458043-656d-4f61-a483-fa544e0572c0" height="55%" width="55%" alt="Disk Sanitization Steps"/>
   
 
   
-<img src="https://github.com/Rushikeshvmane/Sales-Analysis-Drillthrough-Project-/assets/141236953/59bd1ce3-e04e-4b65-bd8a-40a7718fb762" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+
 <br />
 <br />
-4. Also on the basis of provided data, Do a Sales forecasting for next 15 days:  <br/>
-<img src="https://github.com/Rushikeshvmane/Sales-Analysis-Drillthrough-Project-/assets/141236953/0435bd1a-3a98-41ee-86b3-b1198bc412d6" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+4. Deafulter Rate % by Employement Length:  <br/>
+<img src="https://github.com/Rushikeshvmane/Loan-Lending-Data-Analysis/assets/141236953/f3452256-0040-4536-98a1-0f10885db813" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-5. Based on the above mentioned insights it can be concluded that:    
+
+5. Deafulter Rate % Among Home Ownership Status:  <br/>
+<img src="https://github.com/Rushikeshvmane/Loan-Lending-Data-Analysis/assets/141236953/22ebbd32-eb07-415d-ad9d-3420b8b2bdf0" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+6. Deafulter Rate % Among Verification Status:  <br/>
+<img src="https://github.com/Rushikeshvmane/Loan-Lending-Data-Analysis/assets/141236953/eec8a6d5-cd61-4cdd-8f1d-efd8ac1c5dfd" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
+
+
+
+
+
+
+
+
+7. Driving Factors/ Insights:    
 
     i) "Pro" subscription is getting Maven Private LTD. more number of orders i.e. 243.2K compared to other subscriptions 
     and as well as highesh sales i.e.320M was generated through "Pro" subscription only, so More offers, discounts
