@@ -6,6 +6,7 @@ Forex Club (FC) is the world's largest peer-to-peer lending company, headquarter
 
 <h2> How it work's: </h2>
 
+
 1. Customers interested in a loan complete a simple application at ForexClub.com.
 
 2. Forex Club leverages data and technology to screen borrowers, facilitate the transaction with appropriate interest rates, and 
