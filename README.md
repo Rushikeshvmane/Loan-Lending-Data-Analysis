@@ -38,14 +38,15 @@ If one is able to identify these risky loan applicants, then such loans can be 
 
 
 
-1. Maximum Order Quantity & Sales by Subcription  : <br/>   
-<img src="https://github.com/Rushikeshvmane/Sales-Analysis-Drillthrough-Project-/assets/141236953/4bb2b0a3-8630-4613-83f8-5977167a2439" height="45%" width="45%"/>
-  <img src="https://github.com/Rushikeshvmane/Sales-Analysis-Drillthrough-Project-/assets/141236953/8b15148d-27cb-482e-84fe-f7737f6643bc" height="45%" width="45%"/>
+
+1. Loan Purpose Analysis : <br/>   
+<img src="https://github.com/Rushikeshvmane/Loan-Lending-Data-Analysis/assets/141236953/edb73ce3-a2a3-4987-9345-a155f81b3504" height="70%" width="75%"/>
+
 <br />
 <br />
-2. How Sales are performing with respect to following parameters:
+2. Loan Status Analysis:
   Year, Subscription, Model colour, Category:  <br/>
-<img src="https://github.com/Rushikeshvmane/Sales-Analysis-Drillthrough-Project-/assets/141236953/90aa11bb-f502-4a32-985c-c4dd4cd30870" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Rushikeshvmane/Loan-Lending-Data-Analysis/assets/141236953/8e39cf9b-b563-4079-8ace-4ae888070867" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 3. How each state is performing, show this using a feature such that within a few clicks the operator shall get the details regarding that particular state: <br/>
