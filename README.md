@@ -84,22 +84,20 @@ If one is able to identify these risky loan applicants, then such loans can be 
 
 7. Driving Factors/ Insights:    
 
-    i) "Pro" subscription is getting Maven Private LTD. more number of orders i.e. 243.2K compared to other subscriptions 
-    and as well as highesh sales i.e.320M was generated through "Pro" subscription only, so More offers, discounts
-    & marketing strategies can be implemented to double down on the sales revenue.
+    i)  Loan Purpose :- The top two reasons for loans are debt consolidation and credit card. Such applications should be carefully assessed.
     
-    ii) "Car" category is generating the highesh sales revenue i.e. 718M .
+    ii)  Overall Default Rate stands at 14.59%.
 
-    iii) Order quantity for the year 2023 & 2024 was almost the same i.e. 227k- 229k but 2023 sales revenue was almost 
-    100% more than the 2024 sales revenue, so whatever strategy was being used in 2023 can be used in upcoming year as well. 
+    iii)  Loan approved for 36 months seems to have a greater % of defaulters i.e. 8.37% as compared to loans approved for 60 
+           months term 6.22%. So the shorter term for approved loans can be an important factor due to which
+           rate of defaulters is increasing in market and neccessary steps can be taken in order to prevent the same. 
 
-    iv) "Uttar pradesh" is the state with highesh sales revenue amount of 108M, accordingly Maven Private LTD shall 
-    take notice of the same and concentrate more on this states customers and what kind of subscriptions are
-    they taking , which category is performing better , which month of the year is showing hike in orders. 
+    iv) Maximum number of defaulters have 10/10+ years of experience and 0 to 2 years of experience. Hence, Forex Clun (FC)
+         should be take this aspect into consideration while lending loans. 
 
-    v) Forecasting of next 15 days on the basis of previous data provided is done. 
+    v)  91 % of the defaulters already have a mortgage taken out or live on rent, this can be an driving factor that FC should look into. 
 
-
+     vi)  91 % of the defaulters already have a mortgage taken out or live on rent, this can be an driving factor that FC should look into. 
 
 
     
