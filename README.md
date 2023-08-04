@@ -37,7 +37,7 @@ If one is able to identify these risky loan applicants, then such loans can be 
 
 <h2>Insights Generated:</h2>
 
-
+Here's the link for Iteractive Project Dashboard --> (https://www.novypro.com/profile_projects/rushikeshmane)
 
 
 1. Loan Purpose Analysis : <br/>   
