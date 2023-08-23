@@ -93,8 +93,8 @@ If one is able to identify these risky loan applicants, then such loans can be 
            months term 6.22%. So the shorter term for approved loans can be an important factor due to which
            rate of defaulters is increasing in market and neccessary steps can be taken in order to prevent the same. 
 
-    iv) Maximum number of defaulters have 10/10+ years of experience and 0 to 2 years of experience. Hence, Forex Clun (FC)
-         should be take this aspect into consideration while lending loans. 
+    iv) Maximum number of defaulters have 10/10+ years of experience and 0 to 2 years of experience. Hence, Forex Club (FC)
+         should take this aspect into consideration while lending loans. 
 
     v)  91 % of the defaulters already have a mortgage taken out or live on rent, this can be an driving factor that FC should look into. 
 
