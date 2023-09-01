@@ -1,6 +1,6 @@
 # Loan Lending Data Analysis
 
-<h2> Here's the Interactive Project Dashboard link--> https://www.novypro.com/profile_projects/rushikeshmane </h2>
+<h2> Here's the Interactive Project Dashboard link--> https://www.novypro.com/project/loan-lending-eda- </h2>
 
 <h2> Background:</h2>
 
